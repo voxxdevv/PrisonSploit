@@ -4,6 +4,6 @@
 <p align="left">🔀 | A custom "noclip" menu</p>
 <hr>
 <h3 align="left">How To Use PrisonLife ⚙️</h3>
-<p align="left">ℹ️ | Execute the following loadstring using an executor which supports "Lua" scripts: <code>loadstring(game:HttpGet("https://raw.githubusercontent.com/itsaminowo/PrisonSploit/main/maincode.lua"))()</code></p>
+<p align="left">ℹ️ | Execute the following "Lua" script using an executor: <code>loadstring(game:HttpGet("https://raw.githubusercontent.com/itsaminowo/PrisonSploit/main/maincode.lua"))()</code></p>
 <hr>
 <h3 align="left">Copyright 2024, Loud Monkey Designs 💖</h3>
